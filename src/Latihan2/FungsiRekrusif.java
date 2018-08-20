@@ -18,7 +18,7 @@ public class FungsiRekrusif {
         System.out.print("Masukkan suatu bilangan : ");
         bil = masukan.nextInt();
         hasil = faktorial(bil);
-        System.out.print("Nilai Faktorial" + bil + "adalah" + hasil);
+        System.out.println("Nilai Faktorial " + bil + " adalah " + hasil);
     }
 
     private static int faktorial(int a) {
