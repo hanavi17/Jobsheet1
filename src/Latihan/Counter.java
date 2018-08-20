@@ -17,7 +17,7 @@ public class Counter {
         System.out.print("Masukan batas bilangan :");
         int batas = masukan.nextInt();
         int hasil = 0;
-        for(int i=1; i<batas; i++)
+        for(int i=1; i<=batas; i++)
         hasil += i;
         System.out.println("Total jumlah adalah :" +hasil);
     }
