@@ -30,6 +30,9 @@ Inputan
 ![alt text](https://github.com/hanavi17/Jobsheet1/blob/master/Inputan.JPG)
 <br>
 
+Perbedaan System.out.print dan System.out.println adalah jika yang println ada jaraknya dan yang print biasa tidak ada jaraknya.
+
+
 Kondisi
 
 ![alt text](https://github.com/hanavi17/Jobsheet1/blob/master/Kondisi.JPG)
