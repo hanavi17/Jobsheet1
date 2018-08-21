@@ -60,10 +60,25 @@ Variabel
 ![alt text](https://github.com/hanavi17/Jobsheet1/blob/master/Variabel.JPG)
 <br>
 
-Hasil Latihan2 <br>
-Fungsi Rekrusif
+Hasil modul lanjutan <br>
+Latihan 1
 
-![alt text](https://github.com/hanavi17/Jobsheet1/blob/master/FungsiRekrusif.JPG)
+![alt text](https://github.com/hanavi17/Jobsheet1/blob/master/Latihan1.JPG)
+<br>
+
+Latihan 2
+
+![alt text](https://github.com/hanavi17/Jobsheet1/blob/master/Latihan2.JPG)
+<br>
+
+Latihan 3
+
+![alt text](https://github.com/hanavi17/Jobsheet1/blob/master/Latihan3.JPG)
+<br>
+
+Latihan 4
+
+![alt text](https://github.com/hanavi17/Jobsheet1/blob/master/Latihan4.JPG)
 <br>
 
 Hasil Praktikum <br>
@@ -86,4 +101,5 @@ Luas Bola
 
 ![alt text](https://github.com/hanavi17/Jobsheet1/blob/master/LuasBola.JPG)
 <br>
+
 
